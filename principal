@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página</title>
+    <!-- Agrega aquí tus estilos CSS si los tienes -->
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Mi logotipo">
+        <nav>
+            <ul>
+                <li><a href="#seccion1">Sección 1</a></li>
+                <li><a href="#seccion2">Sección 2</a></li>
+                <!-- Agrega más enlaces según tus secciones -->
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Contenido de tu página -->
+    <section id="seccion1">
+        <!-- Contenido de la sección 1 -->
+    </section>
+    <section id="seccion2">
+        <!-- Contenido de la sección 2 -->
+    </section>
+    <!-- Agrega más secciones según tus necesidades -->
+
+    <!-- Agrega aquí tus scripts JavaScript si los tienes -->
+</body>
+</html>
